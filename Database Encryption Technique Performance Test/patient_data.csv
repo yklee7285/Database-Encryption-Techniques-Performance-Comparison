@@ -1,0 +1,101 @@
+patient_id,name,date_of_birth,identification_card_no,medical_condition,prescription
+1,Aiden Lim,12/3/1989,8.90312E+11,Hypertension,Lisinopril 10 mg once daily
+2,Nurul Farah,28/7/1992,9.20728E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily
+3,Arif Rahman,4/11/1975,7.51104E+11,Chronic obstructive pulmonary disease,Salbutamol inhaler PRN
+4,Siti Zulaikha,17/1/1980,8.00117E+11,Hyperlipidemia,Atorvastatin 20 mg at night
+5,Mohd Azman,22/9/1965,6.50922E+11,Arthritis,Diclofenac 50 mg daily
+6,Chong Wei,30/4/1990,9.0043E+11,Gout,Allopurinol 300 mg daily
+7,Lim Yuen,14/2/1978,7.80214E+11,Asthma,Montelukast 10 mg nightly
+8,Aisyah Khan,2/12/1985,8.51202E+11,Hypothyroidism,Levothyroxine 75 mcg daily
+9,Ravi Kumar,18/6/1995,9.50618E+11,Anemia,Ferrous sulfate 325 mg daily
+10,Sara Ali,25/10/1998,9.81025E+11,Allergic rhinitis,Cetirizine 10 mg daily
+11,Aiden Tan,14/7/1983,8.30714E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily
+12,Priya Kumar,2/11/1990,9.01102E+11,Hypertension,Lisinopril 10 mg once daily
+13,Muhammad Faris,28/3/1978,7.80328E+11,Hyperlipidemia,Atorvastatin 20 mg at night
+14,Siti Nurul,15/9/1965,6.50915E+11,Chronic kidney disease,Renal diet and Epoetin alfa
+15,Lim Wei Chen,22/1/1988,8.80122E+11,Asthma,Salbutamol inhaler as needed
+16,Nurul Aini,8/6/1995,9.50608E+11,Gastritis,Omeprazole 20 mg daily
+17,Arun Kumar,30/4/1972,7.2043E+11,Anemia,Ferrous sulfate 325 mg daily
+18,Chong Yi Lin,12/12/1999,9.91212E+11,Allergic rhinitis,Loratadine 10 mg daily
+19,Rahim Hassan,20/2/1962,6.2022E+11,Chronic obstructive pulmonary disease,Tiotropium inhaler 18 mcg daily
+20,Ava Chen,3/8/1987,8.70803E+11,Hypothyroidism,Levothyroxine 75 mcg daily
+21,Aisha Rahman,22/3/1987,8.70322E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily; lifestyle modification recommended
+22,Lim Wei Jun,14/11/1992,9.21114E+11,Hypertension,Amlodipine 5 mg once daily; monitor blood pressure
+23,Siti Nurul Hassan,5/7/1979,7.90705E+11,Asthma,Salbutamol inhaler as needed; inhaled corticosteroid daily
+24,Ahmad Fauzi,28/2/1965,6.50228E+11,Chronic obstructive pulmonary disease,Inhaled corticosteroids; bronchodilators as needed
+25,Grace Lee,12/9/1980,8.00912E+11,Hyperlipidemia,Statin therapy; dietary modification
+26,Mohd Izwan,4/4/1995,9.50404E+11,Acute gastroenteritis,ORS solution; antiemetics as needed
+27,Chong Mei Lin,19/1/1994,9.40119E+11,Iron-deficiency anemia,Iron tablets 65 mg daily; vitamin C to enhance absorption
+28,Norliza Abdul,30/8/1968,6.8083E+11,Rheumatoid arthritis,DMARDs; NSAIDs for pain as needed
+29,Daniel Koh,2/12/1990,9.01202E+11,Depressive disorder,SSRI therapy; counseling referrals
+30,Aminah Binti Hassan,25/5/1983,8.30525E+11,Thyroid dysfunction,Levothyroxine daily; thyroid function monitoring
+31,Aiman Idris,12/4/1985,8.50412E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily
+32,Nadia Rahman,19/7/1990,9.00719E+11,Hypertension,Amlodipine 5 mg once daily
+33,Mohd Amirul,3/11/1975,7.51103E+11,Hyperlipidemia,Atorvastatin 20 mg at night
+34,Siti Noor,28/2/1982,8.20228E+11,Asthma,Salbutamol inhaler PRN
+35,Azim Hakimi,15/9/1968,6.80915E+11,Chronic kidney disease,Renin-angiotensin system blocker; follow-up required
+36,Liyana Omar,5/12/1995,9.51205E+11,Iron-deficiency anemia,Ferrous sulfate 325 mg daily
+37,Farhan Rahim,22/3/1995,9.50322E+11,Acute bronchitis,Doxycycline 100 mg twice daily for 7 days
+38,Raihana Yusuf,17/6/1988,8.80617E+11,Hypothyroidism,Levothyroxine 75 mcg daily
+39,Daniel Lim,28/1/1979,7.90128E+11,Celiac disease,Gluten-free diet; consult dietitian
+40,Indira Kumar,2/10/1992,9.21002E+11,Depression,Escitalopram 10 mg daily
+41,Sophie Tan,23/7/1984,8.40723E+11,Type 2 diabetes mellitus with hypertension,Metformin 500 mg twice daily; Lisinopril 10 mg daily
+42,Rahim Abdul,2/11/1979,7.91102E+11,Chronic obstructive pulmonary disease,Salbutamol inhaler as needed; Tiotropium inhaler daily
+43,Cheryl Lim,15/3/1992,9.20315E+11,Iron-deficiency anemia,Ferrous sulfate 325 mg twice daily
+44,Adam Lee,28/9/1965,6.50928E+11,Hypertension with hyperlipidemia,Amlodipine 5 mg daily; Atorvastatin 20 mg nightly
+45,Nurul Aisyah,12/4/1990,9.00412E+11,Gastroesophageal reflux disease,Omeprazole 20 mg daily; lifestyle modification guidance
+46,Mohamad Farhan,3/6/1987,8.70603E+11,Acute bacterial sinusitis,Amoxicillin 500 mg three times daily for 7 days
+47,Amina Yusuf,20/12/1995,9.5122E+11,Asthma,Albuterol inhaler as needed; inhaled corticosteroid (fluticasone) daily
+48,Daniel Wong,5/1/1988,8.80105E+11,Hyperthyroidism,Methimazole 5 mg daily
+49,Janice Pereira,30/8/1972,7.2083E+11,Chronic kidney disease stage 3,ACE inhibitor; nephroprotective agents as needed
+50,Zaki Abdullah,21/5/1998,9.80521E+11,Seasonal allergic rhinitis,Cetirizine 10 mg daily; intranasal corticosteroid spray
+51,Ainaa Farah,12/4/1985,8.50412E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily; Diet modification; Exercise plan
+52,Zuri Tan,19/7/1990,9.00719E+11,Hypertension,Amlodipine 5 mg once daily; Salt reduction diet
+53,Mira Rashid,3/11/1975,7.51103E+11,Hyperlipidemia,Atorvastatin 20 mg at night; Lifestyle modification
+54,Arif Nasir,28/2/1988,8.80228E+11,Asthma,Salbutamol inhaler as needed; Inhaled corticosteroid daily
+55,Carol Wong,14/9/1992,9.20914E+11,Seasonal allergic rhinitis,Cetirizine 10 mg once daily during pollen season; nasal corticosteroid spray
+56,Lee Jia,3/6/1980,8.00603E+11,Chronic kidney disease stage 3,ACE inhibitor therapy; low-salt diet; hydration optimization
+57,Nur Amina,21/12/1979,7.91221E+11,Hypothyroidism,Levothyroxine 50 mcg daily
+58,Safiq Rahman,17/3/1965,6.50317E+11,Chronic obstructive pulmonary disease,Inhaled bronchodilator; Pulmonary rehabilitation recommended
+59,Aidan Lim,12/4/1985,8.50412E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily; diet and exercise counseling
+60,Nurul Iman,23/7/1990,9.00723E+11,Hypertension,Amlodipine 5 mg once daily
+61,Muhammad Faris,2/11/1978,7.81102E+11,Chronic kidney disease stage 3,Captopril 25 mg twice daily; low-sodium diet
+62,Siti Aishah,18/2/1995,9.50218E+11,Asthma,Salbutamol inhaler as needed; inhaled corticosteroid daily
+63,Tan Wei Jie,9/9/1982,8.20909E+11,Hyperlipidemia,Simvastatin 20 mg at night; dietary modification
+64,Raja Kumar,15/3/1969,6.90315E+11,Coronary artery disease,Aspirin 75 mg daily; atorvastatin 40 mg nightly
+65,Lee Chen,30/6/1974,7.4063E+11,Gout,Allopurinol 300 mg daily; hydration guidance
+66,Sara Ali,1/12/1999,9.91201E+11,Anxiety disorder,Citalopram 20 mg daily; psychotherapy referrals
+67,Mohd Nasir,24/5/1960,6.00524E+11,Chronic obstructive pulmonary disease,Salmeterol-fluticasone inhaler; albuterol as rescue
+68,Grace Lee,8/8/1988,8.80808E+11,Iron-deficiency anemia,Ferrous sulfate 325 mg daily; vitamin C
+69,Ahmad Amirul,14/3/1982,8.20314E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily
+70,Nur Huda,22/11/1990,9.01122E+11,Essential hypertension,Lisinopril 10 mg once daily
+71,Siti Noor,5/6/1975,7.50605E+11,Hyperlipidemia,Atorvastatin 20 mg at night
+72,Lim Wei Chen,30/1/1988,8.8013E+11,Asthma,Salbutamol inhaler as needed
+73,Tan Li Wei,12/9/1995,9.50912E+11,Chronic kidney disease (stage 3),Lisinopril 5 mg daily; HCTZ 25 mg daily
+74,Ainul Farhana,25/4/1987,8.70425E+11,Hypothyroidism,Levothyroxine 75 mcg daily
+75,Ryan Abdullah,18/2/1992,9.20218E+11,Gout,Allopurinol 300 mg daily
+76,Mira Hassan,3/7/1984,8.40703E+11,Migraine,Topiramate 50 mg nightly
+77,Citra Yusof,9/12/1979,7.91209E+11,Iron-deficiency anemia,Ferrous sulfate 325 mg daily
+78,Faridah Zain,28/5/1968,6.80528E+11,Osteoarthritis,Paracetamol 500 mg and topical NSAID
+79,Aisyah Rahman,14/3/1980,8.00314E+11,Hypertension,Lisinopril 10mg daily
+80,Mohd Hanafi Idris,22/7/1975,7.50722E+11,Type 2 Diabetes Mellitus,Metformin 500mg twice daily
+81,Siti Nur Aisha,5/11/1990,9.01105E+11,Asthma,Salbutamol inhaler as needed
+82,Arif changing,29/2/1968,6.80229E+11,Chronic Kidney Disease (Stage 3),Calcium carbonate 1g daily
+83,Lim Wei Chen,18/9/1985,8.50918E+11,Hyperlipidemia,Atorvastatin 20mg at night
+84,Nurul Hidayah,10/4/1992,9.2041E+11,Hypothyroidism,Levothyroxine 75mcg daily
+85,Azlan Shah,30/12/1979,7.9123E+11,Gout,Allopurinol 300mg daily
+86,Chong Hui Lin,25/5/1988,8.80525E+11,Vitamin D deficiency,Cholecalciferol 1000IU daily
+87,Ravi Kumar,15/1/1965,6.50115E+11,Coronary Artery Disease,Aspirin 81mg daily; Simvastatin 40mg nightly
+88,Farah Azlin,7/8/1998,9.80807E+11,Anxiety Disorder,Sertraline 50mg daily
+89,Aisyah Rahman,22/3/1987,8.70322E+11,Hypertension,Amlodipine 5 mg daily
+90,Lee Wei Chen,11/7/1992,9.20711E+11,Type 2 diabetes mellitus,Metformin 500 mg twice daily
+91,Nurul Farhana Aziz,2/11/1979,7.91102E+11,Chronic obstructive pulmonary disease,Inhaled corticosteroid + bronchodilator
+92,Mohd Hafiz Rahman,28/5/1965,6.50528E+11,Hyperlipidemia,Atorvastatin 20 mg nightly
+93,Siti Nur Aisha,15/1/1997,9.70115E+11,Asthma,Salbutamol inhaler as needed
+94,Lim Chia Huan,3/9/1989,8.90903E+11,Gastritis,Omeprazole 20 mg daily
+95,Rafael Thomas,9/12/1975,7.51209E+11,Chronic kidney disease,ACE inhibitor therapy and dietary management
+96,Zuliana Mohd,25/4/1995,9.50425E+11,Iron deficiency anemia,Ferrous sulfate 325 mg daily
+97,Anita Kumar,17/2/1983,8.30217E+11,Thyroid dysfunction,Levothyroxine 75 mcg daily
+98,Hassan Omar,30/8/1968,6.8083E+11,Atrial fibrillation,Anticoagulant therapy
+99,Chong Wei Lin,12/6/1990,9.00612E+11,Allergic rhinitis,Antihistamines as needed
+100,Amina Binti Ali,29/10/1996,9.61029E+11,Migraine,Triptans as needed
