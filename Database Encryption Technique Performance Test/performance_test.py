@@ -130,7 +130,7 @@ def test_no_encryption(num_records):
     results = cur.fetchall()
     select_time = time.time() - start
     
-    # UPDATE test (update 10 records)
+    # UPDATE test
     start = time.time()
     for i in range(1, num_records + 1):
         cur.execute("UPDATE patients SET medical_condition = 'Updated Condition' WHERE patient_id = %s", (i,))
